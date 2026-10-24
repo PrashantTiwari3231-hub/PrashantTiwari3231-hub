@@ -33,6 +33,16 @@
 
 ---
 
+## 🎭 Live Mask
+
+<p align="center">
+  <img src="mask.gif" alt="Live mask — sad to creepy smile" width="400"/>
+</p>
+
+<!-- Upload mask.gif to this repo (same folder as README.md) for the animation above to play. -->
+
+---
+
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
