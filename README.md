@@ -136,15 +136,17 @@ Python learning repository.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrashantTiwari3231-hub&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PrashantTiwari3231-hub&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantTiwari3231-hub&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrashantTiwari3231-hub&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Most Used Languages"/>
 
 </div>
+
 
 ---
 
