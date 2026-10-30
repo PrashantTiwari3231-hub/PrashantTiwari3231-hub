@@ -190,8 +190,7 @@ A local-first AI agent project exploring intelligent coordination of Python tool
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantTiwari3231-hub&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-
+![Cyber Activity Heatmap](https://gh-heat.anishroy.com/api/PrashantTiwari3231-hub/svg?theme=blue&darkMode=true)
 </div>
 
 ---
